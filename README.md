@@ -29,15 +29,3 @@ A simple, stylish, and fully responsive Stopwatch web application built using **
   - Event listeners for button actions
 
 ---
-
-## 📸 Screenshots
-
-> *(You can add your own screenshots here)*
-
----
-
-## 📂 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stopwatch-app.git
